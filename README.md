@@ -1,5 +1,5 @@
 # JSONGEN
-#Prerequisites and Installation steps
+# Prerequisites and Installation steps
 
 It is recommended that you download Apache maven on your local system when trying to run the openEHR SDK projects as all the projects are built upon maven systems.
 Once downloaded, 
